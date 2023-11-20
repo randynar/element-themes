@@ -6,7 +6,7 @@ K1 element theme
 ### Aplikace
 Url čistého kodu vložit do témat elementu
 
-## [Night Owl Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Night%20Owl/Night%20Owl%20Dark/Night-Owl-Dark-Theme.json)
+## [K1 Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Night%20Owl/Night%20Owl%20Dark/k1-Theme.json)
 
 Made by [`@foxy:teapot.ovh`](https://github.com/foxyseta)
 
