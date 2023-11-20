@@ -2,9 +2,9 @@
     "name": "K1",
     "is_dark": true,
     "colors": {
-        "accent-color": "#122d42",
+        "accent-color": "#1e2124",
         "accent": "#d6deeb",
-        "primary-color": "#122d42",
+        "primary-color": "#212326",
         "warning-color": "#b39554",
         "alert": "#b39554",
 
